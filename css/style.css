@@ -99,10 +99,9 @@ a {
   text-align: center;
   font-size: 13pt;
 }
-a {
-  color: #434459;
-}
 a:hover {
   color: #232438;
 }
-
+a {
+  color: #434459;
+}
