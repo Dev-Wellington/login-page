@@ -67,9 +67,10 @@ h1 {
   width: 100%;
   border: none;
   text-indent: 10px;
+  color: #c1c3ff;
 }
 .textfield ::placeholder {
-  color: #0f102c;
+  color: #c1c3ff;
 }
 .textfield label {
   margin-bottom: 5px;
@@ -104,11 +105,4 @@ a {
 a:hover {
   color: #232438;
 }
-cores {
-  background-color: #434459;
-  background-color: #0f102c;
-  background-color: #2d2d4f;
-  background-color: #232438;
-  color: #0f102c;
-  background-color: #f6f6fa;
-}
+
