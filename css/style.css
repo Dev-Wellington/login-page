@@ -70,7 +70,7 @@ h1 {
   color: #c1c3ff;
 }
 .textfield ::placeholder {
-  color: #c1c3ff;
+  color: #fff;
 }
 .textfield label {
   margin-bottom: 5px;
